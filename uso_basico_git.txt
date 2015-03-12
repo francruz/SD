@@ -1,0 +1,13 @@
+git clone url
+
+creas el fichero
+
+git add nombre_fichero
+
+git commit -m "nombre que quieras"
+
+git push
+
+Cuenta: francruz
+Contraseña: amparo5
+Correo: kankuroamparo@gmail.com
