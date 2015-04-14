@@ -1,6 +1,5 @@
-#Seminarios 4
+#Seminario 5
 #Trabajando con Twitter, Json y GoogleMaps
 
-Vamos a desarrollar el programa de Python que nos permita buscar una cantidad determinada de tweets
-relacionados con el equipo de fútbol Real Madrid, y mostrar en el mapa de España, la localización de las personas que han
-escrito sobre dicho tema.
+Modificación del programa realizado en el seminario 4,
+para que nos pidan la palabra a buscar mediante una interfaz.
